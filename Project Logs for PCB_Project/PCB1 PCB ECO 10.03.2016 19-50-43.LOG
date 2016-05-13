@@ -1,0 +1,156 @@
+Removed Pin From Net: NetName=NetC28_2 Pin=C28-2
+Removed Pin From Net: NetName=NetC31_1 Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=NRST Pin=C_rst-1
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=NRST Pin=R_rst-2
+Removed Pin From Net: NetName=NetP2_2 Pin=S2-1
+Removed Pin From Net: NetName=VBAT Pin=S2-2
+Removed Pin From Net: NetName=NetC28_2 Pin=Y1-2
+Change Component DesignItemId : Designator=S2 Old DesignItemId=SW-PB New DesignItemId=SW-SPDT
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=XTAL New DesignItemId=Crystal
+Change Component Footprint: Designator=BT1 Old Footprint=BAT-2 New Footprint=Bat Antenna MS621FE-Fl11E
+Change Component Footprint: Designator=C_bat1 Old Footprint=CAP_0603 New Footprint=CAP_0805
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X4 New Footprint=Header 4 Camera
+Change Component Footprint: Designator=P1 Old Footprint=MMCX2.54-V5 New Footprint=SMA Connector
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=XTAL_TSX_3225
+Change Component Footprint: Designator=S2 Old Footprint=SPST-2 New Footprint=Switch
+Change Component Comment : Designator=S2 Old Comment=SW-PB New Comment=SW-SPDT
+Change Component Comment : Designator=Y1 Old Comment=XTAL New Comment=Crystal
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Component: Designator=TP5(TP)
+Added Component: Designator=TP6(TP)
+Added Component: Designator=TP7(TP)
+Added Component: Designator=TP8(TP)
+Added Component: Designator=TP9(TP)
+Added Component: Designator=TP10(TP)
+Added Component: Designator=TP11(TP)
+Added Component: Designator=TP12(TP)
+Added Component: Designator=TP13(TP)
+Added Component: Designator=U1(MPU6050)
+Added Component: Designator=U2(SOP8_MPXV7002(Primary))
+Added Component: Designator=U5(MS561101BA03-50)
+Added Component: Designator=U6(LTC3539-2)
+Added Component: Designator=U8(MAX-M8W)
+Added Component: Designator=U9(LTC3539-2)
+Added Component: Designator=U10(XBEE DIP-20)
+Added Component: Designator=U11(HIROSE_DM3DSF)
+Added Component: Designator=U12(Header 3 Servo)
+Added Pin To Net: NetName=NetC31_1 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC28_2 Pin=C31-2
+Added Pin To Net: NetName=NetP2_2 Pin=S2-2
+Added Pin To Net: NetName=VBAT Pin=S2-3
+Added Pin To Net: NetName=INT_MPU Pin=TP1-0
+Added Pin To Net: NetName=INT_H3LIS Pin=TP2-0
+Added Pin To Net: NetName=INT_HMC Pin=TP3-0
+Added Pin To Net: NetName=ADC_PITOT Pin=TP4-0
+Added Pin To Net: NetName=GPS_TX Pin=TP5-0
+Added Pin To Net: NetName=GPS_RX Pin=TP6-0
+Added Pin To Net: NetName=XB_RX Pin=TP7-0
+Added Pin To Net: NetName=XB_TX Pin=TP8-0
+Added Pin To Net: NetName=XB_RTS Pin=TP9-0
+Added Pin To Net: NetName=XB_CTS Pin=TP10-0
+Added Pin To Net: NetName=IMG_TX Pin=TP11-0
+Added Pin To Net: NetName=PWM_SERVO Pin=TP12-0
+Added Pin To Net: NetName=IMG_RX Pin=TP13-0
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetC3_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=INT_MPU Pin=U1-12
+Added Pin To Net: NetName=3V3A Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=NetC8_1 Pin=U1-20
+Added Pin To Net: NetName=I2C_SCL Pin=U1-23
+Added Pin To Net: NetName=I2C_SDA Pin=U1-24
+Added Pin To Net: NetName=5VA Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetR1_2 Pin=U2-4
+Added Pin To Net: NetName=3V3A Pin=U5-1
+Added Pin To Net: NetName=3V3A Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=I2C_SDA Pin=U5-7
+Added Pin To Net: NetName=I2C_SCL Pin=U5-8
+Added Pin To Net: NetName=NetL2_2 Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=VBAT Pin=U6-4
+Added Pin To Net: NetName=SHDN_IN Pin=U6-5
+Added Pin To Net: NetName=NetC14_1 Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=NetC14_2 Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetR12_2 Pin=U8-2
+Added Pin To Net: NetName=NetR10_2 Pin=U8-3
+Added Pin To Net: NetName=TIMEPULSE Pin=U8-4
+Added Pin To Net: NetName=NetBT1_1 Pin=U8-6
+Added Pin To Net: NetName=VCC_G Pin=U8-7
+Added Pin To Net: NetName=VCC_G Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U8-10
+Added Pin To Net: NetName=RF_IN Pin=U8-11
+Added Pin To Net: NetName=GND Pin=U8-12
+Added Pin To Net: NetName=NetR11_2 Pin=U8-14
+Added Pin To Net: NetName=NetR11_1 Pin=U8-15
+Added Pin To Net: NetName=NetL4_2 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=VBAT Pin=U9-4
+Added Pin To Net: NetName=VBAT Pin=U9-5
+Added Pin To Net: NetName=NetC23_1 Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=NetC23_2 Pin=U9-8
+Added Pin To Net: NetName=VCC_XB Pin=U10-1
+Added Pin To Net: NetName=XB_RX Pin=U10-2
+Added Pin To Net: NetName=XB_TX Pin=U10-3
+Added Pin To Net: NetName=SLEEP_RQ Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-10
+Added Pin To Net: NetName=XB_CTS Pin=U10-12
+Added Pin To Net: NetName=XB_RTS Pin=U10-16
+Added Pin To Net: NetName=SDIO_D2 Pin=U11-1
+Added Pin To Net: NetName=SDIO_D3 Pin=U11-2
+Added Pin To Net: NetName=SDIO_CMD Pin=U11-3
+Added Pin To Net: NetName=VDD_SD Pin=U11-4
+Added Pin To Net: NetName=SDIO_CLK Pin=U11-5
+Added Pin To Net: NetName=GND Pin=U11-6
+Added Pin To Net: NetName=SDIO_D0 Pin=U11-7
+Added Pin To Net: NetName=SDIO_D1 Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=5V Pin=U12-2
+Added Pin To Net: NetName=NetR21_2 Pin=U12-3
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC28_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Change Net Name : Old Net Name=NetC28_2 New Net Name=PH1
+Change Net Name : Old Net Name=NetC31_1 New Net Name=PH0
+Added Pin To Net: NetName=NetC_rst_1 Pin=C_rst-1
+Added Pin To Net: NetName=NetC_rst_1 Pin=R_rst-2
+Added Net: Name=NetC_rst_1
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP1 TP3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP2 TP1
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP3 TP2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP4
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP6 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP7 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP8 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP9 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP10 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP11 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP12 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP13 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U1 MPU6050
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U2 MPXV7002
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U5 MS5611-01BA03
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U6 LTC3539-2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U8 MAX-M8W
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U9 LTC3539-2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U10 XBEE Pro Series 1
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U11 microSD
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U12 Servo_Con

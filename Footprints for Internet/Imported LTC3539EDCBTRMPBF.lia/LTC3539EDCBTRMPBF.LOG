@@ -1,0 +1,44 @@
+PCAD Importer Log
+Project : LTC3539EDCBTRMPBF.LibPkg
+
+Section : C:\Users\Lupu Sorina\Documents\GitHub\Electronics\Footprints for Internet\LTC3539EDCBTRMPBF.lia
+    Section : PCB Library - LTC3539EDCBTRMPBF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LTC3539EDCBTRMPBF On Line 96
+            Warning - 1 : Skipping Token attachedSymbol On Line 206
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - LTC3539EDCBTRMPBF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 83
+        EndSection
+
+        Section : Generating SCH Library - LTC3539EDCBTRMPBF.SchLib
+        EndSection
+    EndSection
+EndSection

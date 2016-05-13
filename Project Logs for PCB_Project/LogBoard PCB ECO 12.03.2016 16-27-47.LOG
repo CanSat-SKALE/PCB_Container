@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P4 NewDesignator=Camera
+Change Component Designator: OldDesignator=U12 NewDesignator=Servo
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetCamera_1

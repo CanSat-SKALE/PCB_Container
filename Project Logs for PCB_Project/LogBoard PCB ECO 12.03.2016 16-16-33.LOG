@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C_rst NewDesignator=Cr
+Change Component Designator: OldDesignator=R_rst NewDesignator=Rr
+Change Net Name : Old Net Name=NetC_rst_1 New Net Name=NetCr_1

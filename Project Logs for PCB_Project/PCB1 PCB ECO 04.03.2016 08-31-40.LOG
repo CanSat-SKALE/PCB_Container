@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=3V3 Pin=C17-1
+Removed Pin From Net: NetName=3V3 Pin=C29-1
+Removed Pin From Net: NetName=3V3 Pin=C30-1
+Added Component: Designator=C45(1608[0603])
+Added Component: Designator=U3(H3LIS_HIGH_G)
+Added Pin To Net: NetName=3V3A Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=3V3A Pin=U3-7
+Added Pin To Net: NetName=3V3A Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=INT_H3LIS Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=3V3A Pin=U3-14
+Added Pin To Net: NetName=3V3A Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-16
+Added Pin To Net: NetName=VCC_G Pin=C15-1
+Added Pin To Net: NetName=VCC_G Pin=C16-1
+Added Pin To Net: NetName=VCC_G Pin=C17-1
+Added Pin To Net: NetName=VCC_G Pin=D1-1
+Added Pin To Net: NetName=VCC_G Pin=W2-1
+Added Net: Name=VCC_G
+Added Pin To Net: NetName=VCC_XB Pin=C30-1
+Added Pin To Net: NetName=VCC_XB Pin=W5-1
+Added Net: Name=VCC_XB
+Added Pin To Net: NetName=VDD_SD Pin=C29-1
+Added Pin To Net: NetName=VDD_SD Pin=W4-2
+Added Net: Name=VDD_SD
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U3 H3LIS331DL
+Added Room: Name=glider_sch_V1_16Febr

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=L3-1
+Removed Pin From Net: NetName=3V3 Pin=W3-2
+Added Pin To Net: NetName=3V3 Pin=C23-2
+Added Pin To Net: NetName=3V3 Pin=R13-1
+Added Pin To Net: NetName=3V3 Pin=U9-8
+Added Pin To Net: NetName=3V3 Pin=W3-1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=W3-2
+Added Net: Name=NetL3_1
+Added Room: Name=glider_sch_V1_16Febr

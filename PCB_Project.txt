@@ -1,0 +1,133 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~175|Field=Designator~String~Designator~451|Field=Quantity~Integer~Quantity~87|Field=Value~String~Value~70|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~132|ReportField=ReportTime~14:31:14|ReportField=ReportDate~02.03.2016|ReportField=ReportDateTime~02.03.2016 14:31:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~02.03.2016|ReportField=CurrentTime~14:25:03|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Lupu Sorina\Documents\GitHub\Electronics\glider_sch_V1_16Febr.SchDoc|ReportField=DocumentName~glider_sch_V1_16Febr.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~02.03.2016|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.73:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=600:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics\PCB_Project.PrjPcb|ReportField=PCBDataSourceFileName~PCB1.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics\PCB1.PcbDoc
+1|Crystal Oscillator|Y1|1|
+2|Jumper Wire|W6|1|
+3|Jumper Wire|W5|1|
+4|Jumper Wire|W4|1|
+5|Jumper Wire|W3|1|
+6|Jumper Wire|W2|1|
+7|Jumper Wire|W1|1|
+8||U12|1|
+9||U11|1|
+10||U10|1|
+11||U9|1|
+12||U8|1|
+13||U7|1|
+14||U6|1|
+15||U5|1|
+16||U4|1|
+17|High g accelerometer|U3|1|
+18||U2|1|
+19||U1|1|
+20||TP13|1|
+21||TP12|1|
+22||TP11|1|
+23||TP10|1|
+24||TP9|1|
+25||TP8|1|
+26||TP7|1|
+27||TP6|1|
+28||TP5|1|
+29||TP4|1|
+30||TP3|1|
+31||TP2|1|
+32||TP1|1|
+33|Switch|S2|1|
+34|Switch|S1|1|
+35|Resistor|R_rst|1|100k
+36|Resistor|R_L6|1|1k
+37|Resistor|R_L5|1|1k
+38|Resistor|R_L4|1|1k
+39|Resistor|R_L3|1|1k
+40|Resistor|R_L2|1|1k
+41|Resistor|R_L1|1|1k
+42|Resistor|R23|1|10k
+43|Resistor|R22|1|10k
+44|Resistor|R21|1|10
+45|Resistor|R20|1|47 ohm
+46|Resistor|R19|1|5k7
+47|Resistor|R18|1|15k
+48|Resistor|R17|1|10k
+49|Resistor|R16|1|10k
+50|Resistor|R15|1|10k
+51|Resistor|R14|1|562k
+52|Resistor|R13|1|1M
+53|Resistor|R12|1|20 ohm
+54|Resistor|R11|1|10
+55|Resistor|R10|1|20 ohm
+56|Resistor|R9|1|10k
+57|Resistor|R8|1|309k
+58|Resistor|R7|1|1k
+59|Resistor|R6|1|10k
+60|Resistor|R5|1|10k
+61|Resistor|R4|1|1M
+62|Resistor|R3|1|10k
+63|Resistor|R2|1|15k
+64|Resistor|R1|1|10k
+65|N-Channel MOSFET|Q4|1|
+66|N-Channel MOSFET|Q3|1|
+67|P-Channel MOSFET|Q2|1|
+68|P-Channel MOSFET|Q1|1|
+69|Header, 4-Pin|P4|1|
+70||P3|1|
+71|Header, 2-Pin|P2|1|
+72|RF Coaxial PCB Connector, MMCX; Thru-Hole, Vertical Mount Plug,  50 Ohm Impedance|P1|1|
+73|Magnetic Transducer Buzzer|LS1|1|
+74|Inductor|L4|1|2.2 uH
+75|Inductor|L3|1|BLM18KG601SN1D
+76|Inductor|L2|1|2.2 uH
+77|Inductor|L1|1|BLM18KG601SN1D
+78|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D8|1|
+79|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D7|1|
+80|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D6|1|
+81|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D5|1|
+82|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D4|1|
+83|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D3|1|
+84|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D2|1|
+85|Default Diode|D1|1|
+86|Capacitor (Semiconductor SIM Model)|C_rst|1|0.1uF
+87|Capacitor (Semiconductor SIM Model)|C_bat1|1|100uF
+88|Capacitor (Semiconductor SIM Model)|C44|1|22uF
+89|Capacitor (Semiconductor SIM Model)|C43|1|1uF
+90|Capacitor (Semiconductor SIM Model)|C42|1|1uF
+91|Capacitor (Semiconductor SIM Model)|C41|1|0.1uF
+92|Capacitor (Semiconductor SIM Model)|C40|1|0.1uF
+93|Capacitor (Semiconductor SIM Model)|C39|1|4.7uF
+94|Capacitor (Semiconductor SIM Model)|C38|1|0.1uF
+95|Capacitor (Semiconductor SIM Model)|C37|1|0.1uF
+96|Capacitor (Semiconductor SIM Model)|C36|1|0.1uF
+97|Capacitor (Semiconductor SIM Model)|C35|1|0.1uF
+98|Capacitor (Semiconductor SIM Model)|C34|1|10uF
+99|Capacitor (Semiconductor SIM Model)|C33|1|10uF
+100|Capacitor (Semiconductor SIM Model)|C32|1|2.2uF
+101|Capacitor (Semiconductor SIM Model)|C31|1|10pF
+102|Capacitor (Semiconductor SIM Model)|C30|1|1uF
+103|Capacitor (Semiconductor SIM Model)|C29|1|1uF
+104|Capacitor (Semiconductor SIM Model)|C28|1|10pF
+105|Capacitor (Semiconductor SIM Model)|C27|1|2.2uF
+106|Capacitor (Semiconductor SIM Model)|C26|1|1uF
+107|Capacitor (Semiconductor SIM Model)|C25|1|22uF
+108|Capacitor (Semiconductor SIM Model)|C24|1|22uF
+109|Capacitor (Semiconductor SIM Model)|C23|1|33pF
+110|Capacitor (Semiconductor SIM Model)|C22|1|2.2uF
+111|Capacitor (Semiconductor SIM Model)|C21|1|2.2uF
+112|Capacitor (Semiconductor SIM Model)|C20|1|1uF
+113|Capacitor (Semiconductor SIM Model)|C19|1|22uF
+114|Capacitor (Semiconductor SIM Model)|C18|1|22uF
+115|Capacitor (Semiconductor SIM Model)|C17|1|0.1uF
+116|Capacitor (Semiconductor SIM Model)|C16|1|0.1uF
+117|Capacitor (Semiconductor SIM Model)|C15|1|0.1uF
+118|Capacitor (Semiconductor SIM Model)|C14|1|33pF
+119|Capacitor (Semiconductor SIM Model)|C13|1|0.1uF
+120|Capacitor (Semiconductor SIM Model)|C12|1|0.1uF
+121|Capacitor (Semiconductor SIM Model)|C11|1|0.1uF
+122|Capacitor (Semiconductor SIM Model)|C10|1|0.1uF
+123|Capacitor (Semiconductor SIM Model)|C9|1|0.1uF
+124|Capacitor (Semiconductor SIM Model)|C8|1|2.2nF
+125|Capacitor (Semiconductor SIM Model)|C7|1|0.1uF
+126|Capacitor (Semiconductor SIM Model)|C6|1|0.1uF
+127|Capacitor (Semiconductor SIM Model)|C5|1|0.1uF
+128|Capacitor (Semiconductor SIM Model)|C4|1|4.7uF
+129|Capacitor (Semiconductor SIM Model)|C3|1|0.1uF
+130|Capacitor (Semiconductor SIM Model)|C2|1|0.22uF
+131|Capacitor (Semiconductor SIM Model)|C1|1|0.1uF
+132|Multicell Battery|BT1|1|

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=5V Pin=C43-1
+Added Pin To Net: NetName=NetCamera_1 Pin=C43-1
+Change Net Name : Old Net Name=NetCamera_1 New Net Name=CAM_VCC
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C14 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C18 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C19 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C20 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C21 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C27 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C33 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C_bat Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D6 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component L1 Inductor
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component L2 Inductor
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P2 Bat Con
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R4 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R8 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R9 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R16 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R18 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Rl4 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component S2 SW-SPDT
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U6 LTC3539-2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W1 Jumper
+Added Room: Name=glider_sch_V1_16Febr

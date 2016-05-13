@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3V3A Pin=C20-2
+Removed Pin From Net: NetName=3V3A Pin=C34-2
+Removed Pin From Net: NetName=3V3A Pin=C38-1
+Removed Pin From Net: NetName=3V3A Pin=C42-1
+Removed Pin From Net: NetName=3V3A Pin=L1-2
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=3V3A Pin=U7-13
+Added Component: Designator=Q5(E3)
+Added Component: Designator=R16(RES_0603)
+Added Pin To Net: NetName=3V3A Pin=Q5-1
+Added Pin To Net: NetName=3V3A Pin=R5-2
+Added Pin To Net: NetName=3V3A Pin=R6-2
+Change Net Name : Old Net Name=3V3A New Net Name=ON
+Added Pin To Net: NetName=3V3A Pin=C20-2
+Added Pin To Net: NetName=3V3A Pin=C34-2
+Added Pin To Net: NetName=3V3A Pin=C38-1
+Added Pin To Net: NetName=3V3A Pin=C42-1
+Added Pin To Net: NetName=3V3A Pin=L1-2
+Added Pin To Net: NetName=3V3A Pin=Q5-3
+Added Pin To Net: NetName=3V3A Pin=R16-2
+Added Pin To Net: NetName=3V3A Pin=U7-13
+Added Net: Name=3V3A
+Added Pin To Net: NetName=~ON_SENS Pin=Q5-2
+Added Pin To Net: NetName=~ON_SENS Pin=R16-1
+Added Pin To Net: NetName=~ON_SENS Pin=U7-36
+Added Net: Name=~ON_SENS
+Added Member To Class: ClassName=container_V1 Member=Component Q5 MOSFET-P
+Added Member To Class: ClassName=container_V1 Member=Component R16 Res3

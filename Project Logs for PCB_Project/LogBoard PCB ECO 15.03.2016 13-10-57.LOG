@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NetCr_1 Pin=P3-5
+Change Net Name : Old Net Name=NetCr_1 New Net Name=NRST

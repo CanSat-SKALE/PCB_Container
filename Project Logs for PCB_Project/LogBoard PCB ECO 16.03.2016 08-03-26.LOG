@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=XB_RX Pin=RX-0
+Removed Pin From Net: NetName=XB_TX Pin=TX-0
+Removed Pin From Net: NetName=XB_RX Pin=U10-2
+Removed Pin From Net: NetName=XB_TX Pin=U10-3
+Change Component Designator: OldDesignator=RX NewDesignator=TX
+Change Component Designator: OldDesignator=TX NewDesignator=RX
+Added Pin To Net: NetName=XB_RX Pin=RX-0
+Added Pin To Net: NetName=XB_TX Pin=TX-0
+Added Pin To Net: NetName=XB_TX Pin=U10-2
+Added Pin To Net: NetName=XB_RX Pin=U10-3

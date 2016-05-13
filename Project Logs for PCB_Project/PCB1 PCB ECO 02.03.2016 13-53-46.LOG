@@ -1,0 +1,435 @@
+Added Component: Designator=BT1(BAT-2)
+Added Component: Designator=C1(1608[0603])
+Added Component: Designator=C2(1608[0603])
+Added Component: Designator=C3(1608[0603])
+Added Component: Designator=C4(1608[0603])
+Added Component: Designator=C5(1608[0603])
+Added Component: Designator=C6(1608[0603])
+Added Component: Designator=C7(1608[0603])
+Added Component: Designator=C8(1608[0603])
+Added Component: Designator=C9(1608[0603])
+Added Component: Designator=C10(1608[0603])
+Added Component: Designator=C11(1608[0603])
+Added Component: Designator=C12(1608[0603])
+Added Component: Designator=C13(1608[0603])
+Added Component: Designator=C14(1608[0603])
+Added Component: Designator=C15(1608[0603])
+Added Component: Designator=C16(1608[0603])
+Added Component: Designator=C17(1608[0603])
+Added Component: Designator=C18(1608[0603])
+Added Component: Designator=C19(1608[0603])
+Added Component: Designator=C20(1608[0603])
+Added Component: Designator=C21(1608[0603])
+Added Component: Designator=C22(1608[0603])
+Added Component: Designator=C23(1608[0603])
+Added Component: Designator=C24(1608[0603])
+Added Component: Designator=C25(1608[0603])
+Added Component: Designator=C26(1608[0603])
+Added Component: Designator=C27(1608[0603])
+Added Component: Designator=C28(1608[0603])
+Added Component: Designator=C29(1608[0603])
+Added Component: Designator=C30(1608[0603])
+Added Component: Designator=C31(1608[0603])
+Added Component: Designator=C32(1608[0603])
+Added Component: Designator=C33(1608[0603])
+Added Component: Designator=C34(1608[0603])
+Added Component: Designator=C35(1608[0603])
+Added Component: Designator=C36(1608[0603])
+Added Component: Designator=C37(1608[0603])
+Added Component: Designator=C38(1608[0603])
+Added Component: Designator=C39(1608[0603])
+Added Component: Designator=C40(1608[0603])
+Added Component: Designator=C41(1608[0603])
+Added Component: Designator=C42(1608[0603])
+Added Component: Designator=C43(1608[0603])
+Added Component: Designator=C44(1608[0603])
+Added Component: Designator=C_bat1(1608[0603])
+Added Component: Designator=C_rst(1608[0603])
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(3.2X1.6X1.1)
+Added Component: Designator=D3(3.2X1.6X1.1)
+Added Component: Designator=D4(3.2X1.6X1.1)
+Added Component: Designator=D5(3.2X1.6X1.1)
+Added Component: Designator=D6(3.2X1.6X1.1)
+Added Component: Designator=D7(3.2X1.6X1.1)
+Added Component: Designator=D8(3.2X1.6X1.1)
+Added Component: Designator=L1(0603)
+Added Component: Designator=L2(0603)
+Added Component: Designator=L3(0603)
+Added Component: Designator=L4(0603)
+Added Component: Designator=LS1(ABSM-1574)
+Added Component: Designator=P1(MMCX2.54-V5)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=Q1(E3)
+Added Component: Designator=Q2(E3)
+Added Component: Designator=Q3(E3)
+Added Component: Designator=Q4(E3)
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R2(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=R4(RES_0603)
+Added Component: Designator=R5(RES_0603)
+Added Component: Designator=R6(RES_0603)
+Added Component: Designator=R7(RES_0603)
+Added Component: Designator=R8(RES_0603)
+Added Component: Designator=R9(RES_0603)
+Added Component: Designator=R10(RES_0603)
+Added Component: Designator=R11(RES_0603)
+Added Component: Designator=R12(RES_0603)
+Added Component: Designator=R13(RES_0603)
+Added Component: Designator=R14(RES_0603)
+Added Component: Designator=R15(RES_0603)
+Added Component: Designator=R16(RES_0603)
+Added Component: Designator=R17(RES_0603)
+Added Component: Designator=R18(RES_0603)
+Added Component: Designator=R19(RES_0603)
+Added Component: Designator=R20(RES_0603)
+Added Component: Designator=R21(RES_0603)
+Added Component: Designator=R22(RES_0603)
+Added Component: Designator=R23(RES_0603)
+Added Component: Designator=R_L1(RES_0603)
+Added Component: Designator=R_L2(RES_0603)
+Added Component: Designator=R_L3(RES_0603)
+Added Component: Designator=R_L4(RES_0603)
+Added Component: Designator=R_L5(RES_0603)
+Added Component: Designator=R_L6(RES_0603)
+Added Component: Designator=R_rst(RES_0603)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=S2(SPST-2)
+Added Component: Designator=W1(RAD-0.2)
+Added Component: Designator=W2(RAD-0.2)
+Added Component: Designator=W3(RAD-0.2)
+Added Component: Designator=W4(RAD-0.2)
+Added Component: Designator=W5(RAD-0.2)
+Added Component: Designator=W6(RAD-0.2)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=5VA Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=ADC_PITOT Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3V3A Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3V3A Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3V3A Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3V3A Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3V3A Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=3V3A Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=C24 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=5V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=5V Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=5VA Pin=C20-2
+Added Pin To Net: NetName=VBAT Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3V3 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3V3 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3V3A Pin=C26-2
+Added Pin To Net: NetName=VBAT Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=3V3 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=3V3 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=5VA Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=3V3A Pin=C34-2
+Added Pin To Net: NetName=3V3 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=3V3 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=3V3 Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=3V3A Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=3V3 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=3V3 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=3V3 Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=3V3A Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=5V Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=5V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=VBAT Pin=C_bat1-1
+Added Pin To Net: NetName=GND Pin=C_bat1-2
+Added Pin To Net: NetName=NRST Pin=C_rst-1
+Added Pin To Net: NetName=GND Pin=C_rst-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=5VA Pin=L1-2
+Added Pin To Net: NetName=VBAT Pin=L2-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=3V3 Pin=L3-1
+Added Pin To Net: NetName=3V3A Pin=L3-2
+Added Pin To Net: NetName=VBAT Pin=L4-1
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1A
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=5V Pin=LS1-2A
+Added Pin To Net: NetName=5V Pin=LS1-2
+Added Pin To Net: NetName=RF_IN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=IMG_TX Pin=P4-3
+Added Pin To Net: NetName=IMG_RX Pin=P4-4
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=~GPS_EN Pin=Q1-2
+Added Pin To Net: NetName=3V3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=~SD_EN Pin=Q2-2
+Added Pin To Net: NetName=3V3 Pin=Q2-3
+Added Pin To Net: NetName=NetD2_2 Pin=Q3-1
+Added Pin To Net: NetName=PWM_LED Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetLS1_1 Pin=Q4-1
+Added Pin To Net: NetName=PWM_BUZZER Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=ADC_PITOT Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=ADC_PITOT Pin=R2-2
+Added Pin To Net: NetName=~GPS_EN Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=NetC14_1 Pin=R4-1
+Added Pin To Net: NetName=NetC14_2 Pin=R4-2
+Added Pin To Net: NetName=I2C_SDA Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=I2C_SCL Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=NetD1_2 Pin=R7-1
+Added Pin To Net: NetName=NetBT1_1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetC14_1 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=SHDN_IN Pin=R9-2
+Added Pin To Net: NetName=GPS_TX Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=GPS_RX Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetC23_2 Pin=R13-1
+Added Pin To Net: NetName=NetC23_1 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetC23_1 Pin=R14-2
+Added Pin To Net: NetName=~SD_EN Pin=R15-1
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=ADC_5V Pin=R16-1
+Added Pin To Net: NetName=5V Pin=R16-2
+Added Pin To Net: NetName=ADC_BAT Pin=R17-1
+Added Pin To Net: NetName=VBAT Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=ADC_5V Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=ADC_BAT Pin=R19-2
+Added Pin To Net: NetName=3V3 Pin=R20-1
+Added Pin To Net: NetName=NetD2_1 Pin=R20-2
+Added Pin To Net: NetName=PWM_SERVO Pin=R21-1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=PWM_LED Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=PWM_BUZZER Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=NetD3_1 Pin=R_L1-1
+Added Pin To Net: NetName=ERR_LED Pin=R_L1-2
+Added Pin To Net: NetName=NetD4_1 Pin=R_L2-1
+Added Pin To Net: NetName=H_BEAT Pin=R_L2-2
+Added Pin To Net: NetName=NetD5_1 Pin=R_L3-1
+Added Pin To Net: NetName=3V3 Pin=R_L3-2
+Added Pin To Net: NetName=NetD6_1 Pin=R_L4-1
+Added Pin To Net: NetName=5V Pin=R_L4-2
+Added Pin To Net: NetName=NetD7_1 Pin=R_L5-1
+Added Pin To Net: NetName=SD_LED Pin=R_L5-2
+Added Pin To Net: NetName=NetD8_1 Pin=R_L6-1
+Added Pin To Net: NetName=TIMEPULSE Pin=R_L6-2
+Added Pin To Net: NetName=3V3 Pin=R_rst-1
+Added Pin To Net: NetName=NRST Pin=R_rst-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-2
+Added Pin To Net: NetName=NetP2_2 Pin=S2-1
+Added Pin To Net: NetName=VBAT Pin=S2-2
+Added Pin To Net: NetName=NetC14_2 Pin=W1-1
+Added Pin To Net: NetName=5V Pin=W1-2
+Added Pin To Net: NetName=NetD1_1 Pin=W2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=W2-2
+Added Pin To Net: NetName=NetC23_2 Pin=W3-1
+Added Pin To Net: NetName=3V3 Pin=W3-2
+Added Pin To Net: NetName=NetQ2_1 Pin=W4-1
+Added Pin To Net: NetName=NetU11_4 Pin=W4-2
+Added Pin To Net: NetName=NetU10_1 Pin=W5-1
+Added Pin To Net: NetName=3V3 Pin=W5-2
+Added Pin To Net: NetName=5V Pin=W6-1
+Added Pin To Net: NetName=NetP4_1 Pin=W6-2
+Added Pin To Net: NetName=NetC31_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC28_2 Pin=Y1-2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component BT1 Battery
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C1 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C2 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C3 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C4 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C5 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C6 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C7 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C8 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C9 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C10 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C11 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C12 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C13 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C14 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C15 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C16 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C17 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C18 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C19 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C20 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C21 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C22 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C23 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C24 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C25 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C26 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C27 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C28 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C29 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C30 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C31 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C32 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C33 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C34 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C35 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C36 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C37 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C38 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C39 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C40 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C41 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C42 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C43 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C44 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C_bat1 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C_rst Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D1 
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D2 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D3 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D4 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D5 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D6 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D7 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D8 LED2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component L1 Inductor
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component L2 Inductor
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component L3 Inductor
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component L4 Inductor
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component LS1 Buzzer
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P1 COAX-M
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P2 Bat Con
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P4 Camera Connector
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q1 MOSFET-P
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q2 MOSFET-P
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q3 MOSFET-N
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q4 MOSFET-N
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R1 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R2 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R3 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R4 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R5 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R6 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R7 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R8 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R9 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R10 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R11 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R12 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R13 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R14 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R15 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R16 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R17 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R18 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R19 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R20 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R21 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R22 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R23 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_L1 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_L2 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_L3 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_L4 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_L5 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_L6 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R_rst Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component S1 SW-PB
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component S2 SW-PB
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W1 Jumper
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W2 Jumper
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W3 Jumper
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W4 Jumper
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W5 Jumper
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component W6 Jumper
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Y1 XTAL

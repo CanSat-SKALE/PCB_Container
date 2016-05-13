@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=~RES1_HOT Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q2-1
+Removed Pin From Net: NetName=~RES3_HOT Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=NetQ3_1 Pin=Q3-1
+Removed Pin From Net: NetName=~RES2_HOT Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=NetQ4_1 Pin=Q4-1
+Removed Pin From Net: NetName=~RES4_HOT Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=ON Pin=Q5-1
+Removed Pin From Net: NetName=~ON_SENS Pin=Q5-2
+Removed Pin From Net: NetName=3V3A Pin=Q5-3
+Added Pin To Net: NetName=~RES1_HOT Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-3
+Added Pin To Net: NetName=~RES3_HOT Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-3
+Added Pin To Net: NetName=~RES2_HOT Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-3
+Added Pin To Net: NetName=~RES4_HOT Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-3
+Added Pin To Net: NetName=~ON_SENS Pin=Q5-1
+Added Pin To Net: NetName=3V3A Pin=Q5-2
+Added Pin To Net: NetName=ON Pin=Q5-3
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ4_3
+Added Member To Class: ClassName=container_V1 Member=Component U3 MPU6050

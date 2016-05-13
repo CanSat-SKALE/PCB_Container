@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DEBUG_RX Pin=P3-6
+Removed Pin From Net: NetName=DEBUG_TX Pin=P3-7
+Removed Pin From Net: NetName=GND Pin=U1-E
+Added Pin To Net: NetName=DEBUG_TX Pin=P3-6
+Added Pin To Net: NetName=DEBUG_RX Pin=P3-7

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=5V Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=5V Pin=C7-1
+Removed Pin From Net: NetName=~RES1_HOT Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=PWM_SERVO2 Pin=R7-1
+Removed Pin From Net: NetName=NetR7_2 Pin=R7-2
+Removed Pin From Net: NetName=PWM_SERVO1 Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=5V Pin=U6-2
+Removed Pin From Net: NetName=NetR7_2 Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U9-1
+Removed Pin From Net: NetName=5V Pin=U9-2
+Removed Member From Class: ClassName=container_V1 Member=C6
+Removed Member From Class: ClassName=container_V1 Member=R21
+Removed Member From Class: ClassName=container_V1 Member=U6
+Removed Member From Class: ClassName=container_V1 Member=U9
+Change Component Footprint: Designator=S2 Old Footprint=Switch New Footprint=Header 3 Servo
+Change Component Comment : Designator=Q3 Old Comment=MOSFET-N New Comment=DMG1012UW-7
+Change Component Comment : Designator=Q4 Old Comment=MOSFET-N New Comment=DMG1012UW-7
+Added Component: Designator=U8(TO92254P530H965-3)
+Added Component: Designator=U10(Header 7 SWD)
+Added Pin To Net: NetName=NetR7_2 Pin=C7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=~RES1_HOT Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=IR_CMD Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetR7_2 Pin=U8-3
+Added Pin To Net: NetName=3V3A Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=I2C2_SCL Pin=U10-3
+Added Pin To Net: NetName=I2C2_SDA Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=3V3A Pin=U10-7
+Change Net Name : Old Net Name=NetR7_2 New Net Name=VS
+Added Member To Class: ClassName=container_V1 Member=Component U8 TSOP382
+Added Member To Class: ClassName=container_V1 Member=Component U10 MS5611_PCB
+Added Room: Name=container_V1

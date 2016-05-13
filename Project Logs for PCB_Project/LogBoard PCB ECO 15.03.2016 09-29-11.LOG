@@ -1,0 +1,9 @@
+Change Component Comment : Designator=TP7 Old Comment=TP5 New Comment=GND
+Change Component Comment : Designator=TP9 Old Comment=TP5 New Comment=GND
+Change Component Designator: OldDesignator=TP7 NewDesignator=T10
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP14
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=GND Pin=U11-11
+Added Pin To Net: NetName=GND Pin=U11-12
+Added Pin To Net: NetName=GND Pin=U11-13
+Added Pin To Net: NetName=GND Pin=U11-14

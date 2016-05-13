@@ -1,0 +1,38 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~89|Field=Description~String~Description~155|Field=Designator~String~Designator~224|Field=Quantity~Integer~Quantity~174|Field=Value~String~Value~141|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Can\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~85|ReportField=ReportTime~19:51:59|ReportField=ReportDate~10.05.2016|ReportField=ReportDateTime~10.05.2016 19:51:59|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10.05.2016|ReportField=CurrentTime~19:50:29|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Can\container_V1.SchDoc|ReportField=DocumentName~container_V1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~05.05.2016|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Can\PCB_Project.PrjPcb|ReportField=PCBDataSourceFileName~PCB1.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Can\PCB1.PcbDoc
+1|2 ohm - 10 ohm||R3, R4, R11, R12|4|
+2|Crystal||Y1|1|
+3|GND||TP9|1|
+4|LPS331AP||U4|1|
+5|MCP1703||U5|1|
+6|MPU6050||U3|1|
+7|MS5611-01BA03||U2|1|
+8|MS5611_PCB||U10|1|
+9|Servo_Con||U6, U9|2|
+10|STM32F405||U7|1|
+11|SWD||P3|1|
+12|TP1||TP1, TP2|2|
+13|TP3||TP3|1|
+14|TP5||TP4, TP5, TP6, TP7|4|
+15|TSOP382||U8|1|
+16|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C33, C34|3|10uF
+17|Cap Semi|Capacitor (Semiconductor SIM Model)|C2|1|100nF
+18|Cap Semi|Capacitor (Semiconductor SIM Model)|C22, C32|2|2.2uF
+19|Cap Semi|Capacitor (Semiconductor SIM Model)|C28, C31|2|10pF
+20|Cap Semi|Capacitor (Semiconductor SIM Model)|C3, C9, C10, C11, C12, C13, C35, C36, C37, C38, C40, C41, Cr|13|0.1uF
+21|Cap Semi|Capacitor (Semiconductor SIM Model)|C39|1|4.7uF
+22|Cap Semi|Capacitor (Semiconductor SIM Model)|C4, C5, C7, C20, C42|5|1uF
+23|Cap Semi|Capacitor (Semiconductor SIM Model)|C6, C14|2|22uF
+24|Cap Semi|Capacitor (Semiconductor SIM Model)|C8|1|2.2nF
+25|Cap Semi|Capacitor (Semiconductor SIM Model)|C_bat|1|100uF
+26|Bat Con|Header, 2-Pin|P2|1|
+27|H3LIS331DL|High g accelerometer|U1|1|
+28|Inductor|Inductor|L1|1|BLM18KG601SN1D
+29|DMG1012UW-7|N-Channel MOSFET|Q1, Q2, Q3, Q4|4|
+30|MOSFET-P|P-Channel MOSFET|Q5|1|
+31|Res3|Resistor|R1|1|33
+32|Res3|Resistor|R19|1|15k
+33|Res3|Resistor|R2, R7, R10, R13, R14, R15|6|10
+34|Res3|Resistor|R5, R6, R8, R9, R16, R17|6|10k
+35|Res3|Resistor|Rl1, Rl2, Rl3, Rl4|4|1k
+36|SW-SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S2|1|
+37|LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D3, D4, D5, D6|4|

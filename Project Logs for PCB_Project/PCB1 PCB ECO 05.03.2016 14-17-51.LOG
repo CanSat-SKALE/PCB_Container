@@ -1,0 +1,13 @@
+Added Component: Designator=U4(HMC5883L)
+Added Pin To Net: NetName=I2C_SCL Pin=U4-1
+Added Pin To Net: NetName=3V3A Pin=U4-2
+Added Pin To Net: NetName=3V3A Pin=U4-4
+Added Pin To Net: NetName=NetC2_1 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=NetC4_2 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=NetC2_2 Pin=U4-12
+Added Pin To Net: NetName=3V3A Pin=U4-13
+Added Pin To Net: NetName=INT_HMC Pin=U4-15
+Added Pin To Net: NetName=I2C_SDA Pin=U4-16
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U4 HMC5883L

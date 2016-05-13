@@ -1,0 +1,107 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~169|Field=Designator~String~Designator~455|Field=Quantity~Integer~Quantity~88|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=TotalQuantity~106|ReportField=ReportTime~14:17:16|ReportField=ReportDate~02.03.2016|ReportField=ReportDateTime~02.03.2016 14:17:16|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics\PCB1.PcbDoc
+1|Crystal Oscillator|Y1|1
+2|Jumper Wire|W6|1
+3|Jumper Wire|W5|1
+4|Jumper Wire|W4|1
+5|Jumper Wire|W3|1
+6|Jumper Wire|W2|1
+7|Jumper Wire|W1|1
+8|Switch|S2|1
+9|Switch|S1|1
+10|Resistor|R_rst|1
+11|Resistor|R_L6|1
+12|Resistor|R_L5|1
+13|Resistor|R_L4|1
+14|Resistor|R_L3|1
+15|Resistor|R_L2|1
+16|Resistor|R_L1|1
+17|Resistor|R23|1
+18|Resistor|R22|1
+19|Resistor|R21|1
+20|Resistor|R20|1
+21|Resistor|R19|1
+22|Resistor|R18|1
+23|Resistor|R17|1
+24|Resistor|R16|1
+25|Resistor|R15|1
+26|Resistor|R14|1
+27|Resistor|R13|1
+28|Resistor|R12|1
+29|Resistor|R11|1
+30|Resistor|R10|1
+31|Resistor|R9|1
+32|Resistor|R8|1
+33|Resistor|R7|1
+34|Resistor|R6|1
+35|Resistor|R5|1
+36|Resistor|R4|1
+37|Resistor|R3|1
+38|Resistor|R2|1
+39|Resistor|R1|1
+40|N-Channel MOSFET|Q4|1
+41|N-Channel MOSFET|Q3|1
+42|P-Channel MOSFET|Q2|1
+43|P-Channel MOSFET|Q1|1
+44|Header, 4-Pin|P4|1
+45|Header, 2-Pin|P2|1
+46|RF Coaxial PCB Connector, MMCX; Thru-Hole, Vertical Mount Plug,  50 Ohm Impedance|P1|1
+47|Magnetic Transducer Buzzer|LS1|1
+48|Inductor|L4|1
+49|Inductor|L3|1
+50|Inductor|L2|1
+51|Inductor|L1|1
+52|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D8|1
+53|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D7|1
+54|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D6|1
+55|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D5|1
+56|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D4|1
+57|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D3|1
+58|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D2|1
+59|Default Diode|D1|1
+60|Capacitor (Semiconductor SIM Model)|C_rst|1
+61|Capacitor (Semiconductor SIM Model)|C_bat1|1
+62|Capacitor (Semiconductor SIM Model)|C44|1
+63|Capacitor (Semiconductor SIM Model)|C43|1
+64|Capacitor (Semiconductor SIM Model)|C42|1
+65|Capacitor (Semiconductor SIM Model)|C41|1
+66|Capacitor (Semiconductor SIM Model)|C40|1
+67|Capacitor (Semiconductor SIM Model)|C39|1
+68|Capacitor (Semiconductor SIM Model)|C38|1
+69|Capacitor (Semiconductor SIM Model)|C37|1
+70|Capacitor (Semiconductor SIM Model)|C36|1
+71|Capacitor (Semiconductor SIM Model)|C35|1
+72|Capacitor (Semiconductor SIM Model)|C34|1
+73|Capacitor (Semiconductor SIM Model)|C33|1
+74|Capacitor (Semiconductor SIM Model)|C32|1
+75|Capacitor (Semiconductor SIM Model)|C31|1
+76|Capacitor (Semiconductor SIM Model)|C30|1
+77|Capacitor (Semiconductor SIM Model)|C29|1
+78|Capacitor (Semiconductor SIM Model)|C28|1
+79|Capacitor (Semiconductor SIM Model)|C27|1
+80|Capacitor (Semiconductor SIM Model)|C26|1
+81|Capacitor (Semiconductor SIM Model)|C25|1
+82|Capacitor (Semiconductor SIM Model)|C24|1
+83|Capacitor (Semiconductor SIM Model)|C23|1
+84|Capacitor (Semiconductor SIM Model)|C22|1
+85|Capacitor (Semiconductor SIM Model)|C21|1
+86|Capacitor (Semiconductor SIM Model)|C20|1
+87|Capacitor (Semiconductor SIM Model)|C19|1
+88|Capacitor (Semiconductor SIM Model)|C18|1
+89|Capacitor (Semiconductor SIM Model)|C17|1
+90|Capacitor (Semiconductor SIM Model)|C16|1
+91|Capacitor (Semiconductor SIM Model)|C15|1
+92|Capacitor (Semiconductor SIM Model)|C14|1
+93|Capacitor (Semiconductor SIM Model)|C13|1
+94|Capacitor (Semiconductor SIM Model)|C12|1
+95|Capacitor (Semiconductor SIM Model)|C11|1
+96|Capacitor (Semiconductor SIM Model)|C10|1
+97|Capacitor (Semiconductor SIM Model)|C9|1
+98|Capacitor (Semiconductor SIM Model)|C8|1
+99|Capacitor (Semiconductor SIM Model)|C7|1
+100|Capacitor (Semiconductor SIM Model)|C6|1
+101|Capacitor (Semiconductor SIM Model)|C5|1
+102|Capacitor (Semiconductor SIM Model)|C4|1
+103|Capacitor (Semiconductor SIM Model)|C3|1
+104|Capacitor (Semiconductor SIM Model)|C2|1
+105|Capacitor (Semiconductor SIM Model)|C1|1
+106|Multicell Battery|BT1|1

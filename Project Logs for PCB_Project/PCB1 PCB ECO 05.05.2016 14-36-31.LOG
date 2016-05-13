@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=5V Pin=U5-3
+Change Component Footprint: Designator=U5 Old Footprint=SOT23-3 New Footprint=SOT230P700X180-4L25N
+Change Component Comment : Designator=U5 Old Comment=MCP1700 New Comment= MCP1703
+Added Pin To Net: NetName=5V Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=3V3 Pin=U5-3

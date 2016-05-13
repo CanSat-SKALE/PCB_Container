@@ -1,0 +1,75 @@
+PCAD Importer Log
+Project : sd_card_hirose.LibPkg
+
+Section : C:\Users\Lupu Sorina\Documents\GitHub\Electronics\Footprints for Internet\sd_card_hirose.lia
+    Section : PCB Library - sd_card_hirose.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 106
+            Warning - 1 : Skipping Token poly On Line 112
+            Warning - 1 : Skipping Token poly On Line 118
+            Warning - 1 : Skipping Token poly On Line 124
+            Warning - 1 : Skipping Token SD_CARD On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 253
+            Warning - 1 : Skipping Token 6 On Line 256
+            Warning - 1 : Skipping Token 3 On Line 258
+            Warning - 1 : Skipping Token 5 On Line 260
+            Warning - 1 : Skipping Token 10 On Line 262
+            Warning - 1 : Skipping Token 4 On Line 264
+            Warning - 1 : Skipping Token 9 On Line 266
+            Warning - 1 : Skipping Token 7 On Line 268
+            Warning - 1 : Skipping Token 1 On Line 270
+            Warning - 1 : Skipping Token 2 On Line 272
+            Warning - 1 : Skipping Token 8 On Line 274
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [HIROSE_DM3D][Primary] associated with PCAD Component [DM3D_MICRO_SD] has been renamed to PCB FootPrint [HIROSE_DM3D_DM3D_MICRO_SD(Primary)].
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - sd_card_hirose.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token 6 On Line 256
+            Warning - 1 : Skipping Token 3 On Line 258
+            Warning - 1 : Skipping Token 5 On Line 260
+            Warning - 1 : Skipping Token 10 On Line 262
+            Warning - 1 : Skipping Token 4 On Line 264
+            Warning - 1 : Skipping Token 9 On Line 266
+            Warning - 1 : Skipping Token 7 On Line 268
+            Warning - 1 : Skipping Token 1 On Line 270
+            Warning - 1 : Skipping Token 2 On Line 272
+            Warning - 1 : Skipping Token 8 On Line 274
+        EndSection
+
+        Section : Generating SCH Library - sd_card_hirose.SchLib
+            Warning - 0 : PCAD Pattern Graphics [HIROSE_DM3D][Primary] associated with PCAD Component [DM3D_MICRO_SD] has been renamed to PCB FootPrint [HIROSE_DM3D_DM3D_MICRO_SD(Primary)].
+        EndSection
+    EndSection
+EndSection

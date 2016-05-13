@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=TP7 NewDesignator=RX
+Change Component Designator: OldDesignator=TP8 NewDesignator=TX
+Change Component Designator: OldDesignator=TP9 NewDesignator=RTS
+Change Component Designator: OldDesignator=TP10 NewDesignator=CTS

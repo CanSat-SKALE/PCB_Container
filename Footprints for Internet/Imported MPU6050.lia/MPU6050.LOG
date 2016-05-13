@@ -1,0 +1,707 @@
+PCAD Importer Log
+Project : MPU6050.LibPkg
+
+Section : C:\Users\Lupu Sorina\Documents\GitHub\Electronics\Footprints for Internet\MPU6050.lia
+    Section : PCB Library - MPU6050.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 117
+            Warning - 1 : Skipping Token poly On Line 123
+            Warning - 1 : Skipping Token poly On Line 129
+            Warning - 1 : Skipping Token poly On Line 135
+            Warning - 1 : Skipping Token poly On Line 141
+            Warning - 1 : Skipping Token poly On Line 147
+            Warning - 1 : Skipping Token poly On Line 153
+            Warning - 1 : Skipping Token poly On Line 159
+            Warning - 1 : Skipping Token poly On Line 165
+            Warning - 1 : Skipping Token poly On Line 171
+            Warning - 1 : Skipping Token poly On Line 177
+            Warning - 1 : Skipping Token poly On Line 183
+            Warning - 1 : Skipping Token poly On Line 189
+            Warning - 1 : Skipping Token poly On Line 195
+            Warning - 1 : Skipping Token poly On Line 201
+            Warning - 1 : Skipping Token poly On Line 207
+            Warning - 1 : Skipping Token poly On Line 213
+            Warning - 1 : Skipping Token poly On Line 219
+            Warning - 1 : Skipping Token poly On Line 225
+            Warning - 1 : Skipping Token poly On Line 231
+            Warning - 1 : Skipping Token poly On Line 237
+            Warning - 1 : Skipping Token poly On Line 243
+            Warning - 1 : Skipping Token poly On Line 249
+            Warning - 1 : Skipping Token poly On Line 255
+            Warning - 1 : Skipping Token poly On Line 261
+            Warning - 1 : Skipping Token poly On Line 267
+            Warning - 1 : Skipping Token poly On Line 273
+            Warning - 1 : Skipping Token poly On Line 279
+            Warning - 1 : Skipping Token poly On Line 285
+            Warning - 1 : Skipping Token poly On Line 291
+            Warning - 1 : Skipping Token poly On Line 297
+            Warning - 1 : Skipping Token poly On Line 303
+            Warning - 1 : Skipping Token poly On Line 309
+            Warning - 1 : Skipping Token poly On Line 315
+            Warning - 1 : Skipping Token poly On Line 321
+            Warning - 1 : Skipping Token poly On Line 327
+            Warning - 1 : Skipping Token poly On Line 333
+            Warning - 1 : Skipping Token poly On Line 339
+            Warning - 1 : Skipping Token poly On Line 345
+            Warning - 1 : Skipping Token poly On Line 351
+            Warning - 1 : Skipping Token poly On Line 357
+            Warning - 1 : Skipping Token poly On Line 363
+            Warning - 1 : Skipping Token poly On Line 369
+            Warning - 1 : Skipping Token poly On Line 375
+            Warning - 1 : Skipping Token poly On Line 381
+            Warning - 1 : Skipping Token poly On Line 387
+            Warning - 1 : Skipping Token poly On Line 393
+            Warning - 1 : Skipping Token poly On Line 399
+            Warning - 1 : Skipping Token poly On Line 405
+            Warning - 1 : Skipping Token poly On Line 411
+            Warning - 1 : Skipping Token poly On Line 417
+            Warning - 1 : Skipping Token poly On Line 423
+            Warning - 1 : Skipping Token poly On Line 429
+            Warning - 1 : Skipping Token poly On Line 435
+            Warning - 1 : Skipping Token poly On Line 441
+            Warning - 1 : Skipping Token poly On Line 447
+            Warning - 1 : Skipping Token poly On Line 453
+            Warning - 1 : Skipping Token poly On Line 459
+            Warning - 1 : Skipping Token poly On Line 465
+            Warning - 1 : Skipping Token poly On Line 471
+            Warning - 1 : Skipping Token poly On Line 477
+            Warning - 1 : Skipping Token poly On Line 483
+            Warning - 1 : Skipping Token poly On Line 489
+            Warning - 1 : Skipping Token poly On Line 495
+            Warning - 1 : Skipping Token poly On Line 501
+            Warning - 1 : Skipping Token poly On Line 507
+            Warning - 1 : Skipping Token poly On Line 513
+            Warning - 1 : Skipping Token poly On Line 519
+            Warning - 1 : Skipping Token poly On Line 525
+            Warning - 1 : Skipping Token poly On Line 531
+            Warning - 1 : Skipping Token poly On Line 537
+            Warning - 1 : Skipping Token poly On Line 543
+            Warning - 1 : Skipping Token poly On Line 549
+            Warning - 1 : Skipping Token poly On Line 555
+            Warning - 1 : Skipping Token poly On Line 561
+            Warning - 1 : Skipping Token poly On Line 567
+            Warning - 1 : Skipping Token poly On Line 573
+            Warning - 1 : Skipping Token poly On Line 579
+            Warning - 1 : Skipping Token poly On Line 585
+            Warning - 1 : Skipping Token poly On Line 591
+            Warning - 1 : Skipping Token poly On Line 597
+            Warning - 1 : Skipping Token poly On Line 603
+            Warning - 1 : Skipping Token poly On Line 609
+            Warning - 1 : Skipping Token poly On Line 615
+            Warning - 1 : Skipping Token poly On Line 621
+            Warning - 1 : Skipping Token poly On Line 627
+            Warning - 1 : Skipping Token poly On Line 633
+            Warning - 1 : Skipping Token poly On Line 639
+            Warning - 1 : Skipping Token poly On Line 645
+            Warning - 1 : Skipping Token poly On Line 651
+            Warning - 1 : Skipping Token poly On Line 657
+            Warning - 1 : Skipping Token poly On Line 663
+            Warning - 1 : Skipping Token poly On Line 669
+            Warning - 1 : Skipping Token poly On Line 675
+            Warning - 1 : Skipping Token poly On Line 681
+            Warning - 1 : Skipping Token poly On Line 687
+            Warning - 1 : Skipping Token poly On Line 693
+            Warning - 1 : Skipping Token poly On Line 699
+            Warning - 1 : Skipping Token poly On Line 705
+            Warning - 1 : Skipping Token poly On Line 711
+            Warning - 1 : Skipping Token poly On Line 717
+            Warning - 1 : Skipping Token poly On Line 723
+            Warning - 1 : Skipping Token poly On Line 729
+            Warning - 1 : Skipping Token poly On Line 735
+            Warning - 1 : Skipping Token poly On Line 741
+            Warning - 1 : Skipping Token poly On Line 747
+            Warning - 1 : Skipping Token poly On Line 753
+            Warning - 1 : Skipping Token poly On Line 759
+            Warning - 1 : Skipping Token poly On Line 765
+            Warning - 1 : Skipping Token poly On Line 771
+            Warning - 1 : Skipping Token poly On Line 777
+            Warning - 1 : Skipping Token poly On Line 783
+            Warning - 1 : Skipping Token poly On Line 789
+            Warning - 1 : Skipping Token poly On Line 795
+            Warning - 1 : Skipping Token poly On Line 801
+            Warning - 1 : Skipping Token poly On Line 807
+            Warning - 1 : Skipping Token poly On Line 813
+            Warning - 1 : Skipping Token poly On Line 819
+            Warning - 1 : Skipping Token poly On Line 825
+            Warning - 1 : Skipping Token poly On Line 831
+            Warning - 1 : Skipping Token poly On Line 837
+            Warning - 1 : Skipping Token poly On Line 843
+            Warning - 1 : Skipping Token poly On Line 849
+            Warning - 1 : Skipping Token poly On Line 855
+            Warning - 1 : Skipping Token poly On Line 861
+            Warning - 1 : Skipping Token poly On Line 867
+            Warning - 1 : Skipping Token poly On Line 873
+            Warning - 1 : Skipping Token poly On Line 879
+            Warning - 1 : Skipping Token poly On Line 885
+            Warning - 1 : Skipping Token poly On Line 891
+            Warning - 1 : Skipping Token poly On Line 897
+            Warning - 1 : Skipping Token poly On Line 903
+            Warning - 1 : Skipping Token poly On Line 909
+            Warning - 1 : Skipping Token poly On Line 915
+            Warning - 1 : Skipping Token poly On Line 921
+            Warning - 1 : Skipping Token poly On Line 927
+            Warning - 1 : Skipping Token poly On Line 933
+            Warning - 1 : Skipping Token poly On Line 939
+            Warning - 1 : Skipping Token poly On Line 945
+            Warning - 1 : Skipping Token poly On Line 951
+            Warning - 1 : Skipping Token poly On Line 957
+            Warning - 1 : Skipping Token poly On Line 963
+            Warning - 1 : Skipping Token poly On Line 969
+            Warning - 1 : Skipping Token poly On Line 975
+            Warning - 1 : Skipping Token poly On Line 981
+            Warning - 1 : Skipping Token poly On Line 987
+            Warning - 1 : Skipping Token poly On Line 993
+            Warning - 1 : Skipping Token poly On Line 999
+            Warning - 1 : Skipping Token poly On Line 1005
+            Warning - 1 : Skipping Token poly On Line 1011
+            Warning - 1 : Skipping Token poly On Line 1017
+            Warning - 1 : Skipping Token poly On Line 1023
+            Warning - 1 : Skipping Token poly On Line 1029
+            Warning - 1 : Skipping Token poly On Line 1035
+            Warning - 1 : Skipping Token poly On Line 1041
+            Warning - 1 : Skipping Token poly On Line 1047
+            Warning - 1 : Skipping Token poly On Line 1053
+            Warning - 1 : Skipping Token poly On Line 1059
+            Warning - 1 : Skipping Token poly On Line 1065
+            Warning - 1 : Skipping Token poly On Line 1071
+            Warning - 1 : Skipping Token poly On Line 1077
+            Warning - 1 : Skipping Token poly On Line 1083
+            Warning - 1 : Skipping Token poly On Line 1089
+            Warning - 1 : Skipping Token poly On Line 1095
+            Warning - 1 : Skipping Token poly On Line 1101
+            Warning - 1 : Skipping Token poly On Line 1107
+            Warning - 1 : Skipping Token poly On Line 1113
+            Warning - 1 : Skipping Token poly On Line 1119
+            Warning - 1 : Skipping Token poly On Line 1125
+            Warning - 1 : Skipping Token poly On Line 1131
+            Warning - 1 : Skipping Token poly On Line 1137
+            Warning - 1 : Skipping Token poly On Line 1143
+            Warning - 1 : Skipping Token poly On Line 1149
+            Warning - 1 : Skipping Token poly On Line 1155
+            Warning - 1 : Skipping Token poly On Line 1161
+            Warning - 1 : Skipping Token poly On Line 1167
+            Warning - 1 : Skipping Token poly On Line 1173
+            Warning - 1 : Skipping Token poly On Line 1179
+            Warning - 1 : Skipping Token poly On Line 1185
+            Warning - 1 : Skipping Token poly On Line 1191
+            Warning - 1 : Skipping Token poly On Line 1197
+            Warning - 1 : Skipping Token poly On Line 1203
+            Warning - 1 : Skipping Token poly On Line 1209
+            Warning - 1 : Skipping Token poly On Line 1215
+            Warning - 1 : Skipping Token poly On Line 1221
+            Warning - 1 : Skipping Token poly On Line 1227
+            Warning - 1 : Skipping Token poly On Line 1233
+            Warning - 1 : Skipping Token poly On Line 1239
+            Warning - 1 : Skipping Token poly On Line 1245
+            Warning - 1 : Skipping Token poly On Line 1251
+            Warning - 1 : Skipping Token poly On Line 1257
+            Warning - 1 : Skipping Token poly On Line 1263
+            Warning - 1 : Skipping Token poly On Line 1269
+            Warning - 1 : Skipping Token poly On Line 1275
+            Warning - 1 : Skipping Token poly On Line 1281
+            Warning - 1 : Skipping Token poly On Line 1287
+            Warning - 1 : Skipping Token poly On Line 1293
+            Warning - 1 : Skipping Token poly On Line 1299
+            Warning - 1 : Skipping Token poly On Line 1305
+            Warning - 1 : Skipping Token poly On Line 1311
+            Warning - 1 : Skipping Token poly On Line 1317
+            Warning - 1 : Skipping Token poly On Line 1323
+            Warning - 1 : Skipping Token poly On Line 1329
+            Warning - 1 : Skipping Token poly On Line 1335
+            Warning - 1 : Skipping Token poly On Line 1341
+            Warning - 1 : Skipping Token poly On Line 1347
+            Warning - 1 : Skipping Token poly On Line 1353
+            Warning - 1 : Skipping Token poly On Line 1359
+            Warning - 1 : Skipping Token poly On Line 1365
+            Warning - 1 : Skipping Token poly On Line 1371
+            Warning - 1 : Skipping Token poly On Line 1377
+            Warning - 1 : Skipping Token poly On Line 1383
+            Warning - 1 : Skipping Token poly On Line 1389
+            Warning - 1 : Skipping Token poly On Line 1395
+            Warning - 1 : Skipping Token poly On Line 1401
+            Warning - 1 : Skipping Token poly On Line 1407
+            Warning - 1 : Skipping Token poly On Line 1413
+            Warning - 1 : Skipping Token poly On Line 1419
+            Warning - 1 : Skipping Token poly On Line 1425
+            Warning - 1 : Skipping Token poly On Line 1431
+            Warning - 1 : Skipping Token poly On Line 1437
+            Warning - 1 : Skipping Token poly On Line 1443
+            Warning - 1 : Skipping Token poly On Line 1449
+            Warning - 1 : Skipping Token poly On Line 1455
+            Warning - 1 : Skipping Token poly On Line 1461
+            Warning - 1 : Skipping Token poly On Line 1467
+            Warning - 1 : Skipping Token poly On Line 1473
+            Warning - 1 : Skipping Token poly On Line 1479
+            Warning - 1 : Skipping Token poly On Line 1485
+            Warning - 1 : Skipping Token poly On Line 1491
+            Warning - 1 : Skipping Token poly On Line 1497
+            Warning - 1 : Skipping Token poly On Line 1503
+            Warning - 1 : Skipping Token poly On Line 1509
+            Warning - 1 : Skipping Token poly On Line 1515
+            Warning - 1 : Skipping Token poly On Line 1521
+            Warning - 1 : Skipping Token poly On Line 1527
+            Warning - 1 : Skipping Token poly On Line 1533
+            Warning - 1 : Skipping Token poly On Line 1539
+            Warning - 1 : Skipping Token poly On Line 1545
+            Warning - 1 : Skipping Token poly On Line 1551
+            Warning - 1 : Skipping Token poly On Line 1557
+            Warning - 1 : Skipping Token poly On Line 1563
+            Warning - 1 : Skipping Token poly On Line 1569
+            Warning - 1 : Skipping Token poly On Line 1575
+            Warning - 1 : Skipping Token poly On Line 1581
+            Warning - 1 : Skipping Token poly On Line 1587
+            Warning - 1 : Skipping Token poly On Line 1593
+            Warning - 1 : Skipping Token poly On Line 1599
+            Warning - 1 : Skipping Token poly On Line 1605
+            Warning - 1 : Skipping Token poly On Line 1611
+            Warning - 1 : Skipping Token poly On Line 1617
+            Warning - 1 : Skipping Token poly On Line 1623
+            Warning - 1 : Skipping Token poly On Line 1629
+            Warning - 1 : Skipping Token poly On Line 1635
+            Warning - 1 : Skipping Token poly On Line 1641
+            Warning - 1 : Skipping Token poly On Line 1647
+            Warning - 1 : Skipping Token poly On Line 1653
+            Warning - 1 : Skipping Token poly On Line 1659
+            Warning - 1 : Skipping Token poly On Line 1665
+            Warning - 1 : Skipping Token poly On Line 1671
+            Warning - 1 : Skipping Token poly On Line 1677
+            Warning - 1 : Skipping Token poly On Line 1683
+            Warning - 1 : Skipping Token poly On Line 1689
+            Warning - 1 : Skipping Token poly On Line 1695
+            Warning - 1 : Skipping Token poly On Line 1701
+            Warning - 1 : Skipping Token poly On Line 1707
+            Warning - 1 : Skipping Token poly On Line 1713
+            Warning - 1 : Skipping Token poly On Line 1719
+            Warning - 1 : Skipping Token poly On Line 1725
+            Warning - 1 : Skipping Token poly On Line 1731
+            Warning - 1 : Skipping Token poly On Line 1737
+            Warning - 1 : Skipping Token poly On Line 1743
+            Warning - 1 : Skipping Token poly On Line 1749
+            Warning - 1 : Skipping Token poly On Line 1755
+            Warning - 1 : Skipping Token poly On Line 1761
+            Warning - 1 : Skipping Token poly On Line 1767
+            Warning - 1 : Skipping Token poly On Line 1773
+            Warning - 1 : Skipping Token poly On Line 1779
+            Warning - 1 : Skipping Token poly On Line 1785
+            Warning - 1 : Skipping Token poly On Line 1791
+            Warning - 1 : Skipping Token poly On Line 1797
+            Warning - 1 : Skipping Token poly On Line 1803
+            Warning - 1 : Skipping Token poly On Line 1809
+            Warning - 1 : Skipping Token poly On Line 1815
+            Warning - 1 : Skipping Token poly On Line 1821
+            Warning - 1 : Skipping Token poly On Line 1827
+            Warning - 1 : Skipping Token poly On Line 1833
+            Warning - 1 : Skipping Token poly On Line 1839
+            Warning - 1 : Skipping Token poly On Line 1845
+            Warning - 1 : Skipping Token poly On Line 1851
+            Warning - 1 : Skipping Token poly On Line 1857
+            Warning - 1 : Skipping Token poly On Line 1863
+            Warning - 1 : Skipping Token poly On Line 1869
+            Warning - 1 : Skipping Token poly On Line 1875
+            Warning - 1 : Skipping Token poly On Line 1881
+            Warning - 1 : Skipping Token poly On Line 1887
+            Warning - 1 : Skipping Token poly On Line 1893
+            Warning - 1 : Skipping Token poly On Line 1899
+            Warning - 1 : Skipping Token poly On Line 1905
+            Warning - 1 : Skipping Token poly On Line 1911
+            Warning - 1 : Skipping Token poly On Line 1917
+            Warning - 1 : Skipping Token poly On Line 1923
+            Warning - 1 : Skipping Token poly On Line 1929
+            Warning - 1 : Skipping Token poly On Line 1935
+            Warning - 1 : Skipping Token poly On Line 1941
+            Warning - 1 : Skipping Token poly On Line 1947
+            Warning - 1 : Skipping Token poly On Line 1953
+            Warning - 1 : Skipping Token poly On Line 1959
+            Warning - 1 : Skipping Token poly On Line 1965
+            Warning - 1 : Skipping Token poly On Line 1971
+            Warning - 1 : Skipping Token poly On Line 1977
+            Warning - 1 : Skipping Token poly On Line 1983
+            Warning - 1 : Skipping Token poly On Line 1989
+            Warning - 1 : Skipping Token poly On Line 1995
+            Warning - 1 : Skipping Token poly On Line 2001
+            Warning - 1 : Skipping Token poly On Line 2007
+            Warning - 1 : Skipping Token poly On Line 2013
+            Warning - 1 : Skipping Token poly On Line 2019
+            Warning - 1 : Skipping Token poly On Line 2025
+            Warning - 1 : Skipping Token poly On Line 2031
+            Warning - 1 : Skipping Token poly On Line 2037
+            Warning - 1 : Skipping Token poly On Line 2043
+            Warning - 1 : Skipping Token poly On Line 2049
+            Warning - 1 : Skipping Token poly On Line 2055
+            Warning - 1 : Skipping Token poly On Line 2061
+            Warning - 1 : Skipping Token poly On Line 2067
+            Warning - 1 : Skipping Token poly On Line 2073
+            Warning - 1 : Skipping Token poly On Line 2079
+            Warning - 1 : Skipping Token poly On Line 2085
+            Warning - 1 : Skipping Token poly On Line 2091
+            Warning - 1 : Skipping Token poly On Line 2097
+            Warning - 1 : Skipping Token poly On Line 2103
+            Warning - 1 : Skipping Token poly On Line 2109
+            Warning - 1 : Skipping Token poly On Line 2115
+            Warning - 1 : Skipping Token poly On Line 2121
+            Warning - 1 : Skipping Token poly On Line 2127
+            Warning - 1 : Skipping Token poly On Line 2133
+            Warning - 1 : Skipping Token poly On Line 2139
+            Warning - 1 : Skipping Token poly On Line 2145
+            Warning - 1 : Skipping Token poly On Line 2151
+            Warning - 1 : Skipping Token poly On Line 2157
+            Warning - 1 : Skipping Token poly On Line 2163
+            Warning - 1 : Skipping Token poly On Line 2169
+            Warning - 1 : Skipping Token poly On Line 2175
+            Warning - 1 : Skipping Token poly On Line 2181
+            Warning - 1 : Skipping Token poly On Line 2187
+            Warning - 1 : Skipping Token poly On Line 2193
+            Warning - 1 : Skipping Token poly On Line 2199
+            Warning - 1 : Skipping Token poly On Line 2205
+            Warning - 1 : Skipping Token poly On Line 2211
+            Warning - 1 : Skipping Token poly On Line 2217
+            Warning - 1 : Skipping Token poly On Line 2223
+            Warning - 1 : Skipping Token poly On Line 2229
+            Warning - 1 : Skipping Token poly On Line 2235
+            Warning - 1 : Skipping Token poly On Line 2241
+            Warning - 1 : Skipping Token poly On Line 2247
+            Warning - 1 : Skipping Token poly On Line 2253
+            Warning - 1 : Skipping Token poly On Line 2259
+            Warning - 1 : Skipping Token poly On Line 2265
+            Warning - 1 : Skipping Token poly On Line 2271
+            Warning - 1 : Skipping Token poly On Line 2277
+            Warning - 1 : Skipping Token poly On Line 2283
+            Warning - 1 : Skipping Token poly On Line 2289
+            Warning - 1 : Skipping Token poly On Line 2295
+            Warning - 1 : Skipping Token poly On Line 2301
+            Warning - 1 : Skipping Token poly On Line 2307
+            Warning - 1 : Skipping Token poly On Line 2313
+            Warning - 1 : Skipping Token poly On Line 2319
+            Warning - 1 : Skipping Token poly On Line 2325
+            Warning - 1 : Skipping Token poly On Line 2331
+            Warning - 1 : Skipping Token poly On Line 2337
+            Warning - 1 : Skipping Token poly On Line 2343
+            Warning - 1 : Skipping Token poly On Line 2349
+            Warning - 1 : Skipping Token poly On Line 2355
+            Warning - 1 : Skipping Token poly On Line 2361
+            Warning - 1 : Skipping Token poly On Line 2367
+            Warning - 1 : Skipping Token poly On Line 2373
+            Warning - 1 : Skipping Token poly On Line 2379
+            Warning - 1 : Skipping Token poly On Line 2385
+            Warning - 1 : Skipping Token poly On Line 2391
+            Warning - 1 : Skipping Token poly On Line 2397
+            Warning - 1 : Skipping Token poly On Line 2403
+            Warning - 1 : Skipping Token poly On Line 2409
+            Warning - 1 : Skipping Token poly On Line 2415
+            Warning - 1 : Skipping Token poly On Line 2421
+            Warning - 1 : Skipping Token poly On Line 2427
+            Warning - 1 : Skipping Token poly On Line 2433
+            Warning - 1 : Skipping Token poly On Line 2439
+            Warning - 1 : Skipping Token poly On Line 2445
+            Warning - 1 : Skipping Token poly On Line 2451
+            Warning - 1 : Skipping Token poly On Line 2457
+            Warning - 1 : Skipping Token poly On Line 2463
+            Warning - 1 : Skipping Token poly On Line 2469
+            Warning - 1 : Skipping Token poly On Line 2475
+            Warning - 1 : Skipping Token poly On Line 2481
+            Warning - 1 : Skipping Token poly On Line 2487
+            Warning - 1 : Skipping Token poly On Line 2493
+            Warning - 1 : Skipping Token poly On Line 2499
+            Warning - 1 : Skipping Token poly On Line 2505
+            Warning - 1 : Skipping Token poly On Line 2511
+            Warning - 1 : Skipping Token poly On Line 2517
+            Warning - 1 : Skipping Token poly On Line 2523
+            Warning - 1 : Skipping Token poly On Line 2529
+            Warning - 1 : Skipping Token poly On Line 2535
+            Warning - 1 : Skipping Token poly On Line 2541
+            Warning - 1 : Skipping Token poly On Line 2547
+            Warning - 1 : Skipping Token poly On Line 2553
+            Warning - 1 : Skipping Token poly On Line 2559
+            Warning - 1 : Skipping Token poly On Line 2565
+            Warning - 1 : Skipping Token poly On Line 2571
+            Warning - 1 : Skipping Token poly On Line 2577
+            Warning - 1 : Skipping Token poly On Line 2583
+            Warning - 1 : Skipping Token poly On Line 2589
+            Warning - 1 : Skipping Token poly On Line 2595
+            Warning - 1 : Skipping Token poly On Line 2601
+            Warning - 1 : Skipping Token poly On Line 2607
+            Warning - 1 : Skipping Token poly On Line 2613
+            Warning - 1 : Skipping Token poly On Line 2619
+            Warning - 1 : Skipping Token poly On Line 2625
+            Warning - 1 : Skipping Token poly On Line 2631
+            Warning - 1 : Skipping Token poly On Line 2637
+            Warning - 1 : Skipping Token poly On Line 2643
+            Warning - 1 : Skipping Token poly On Line 2649
+            Warning - 1 : Skipping Token poly On Line 2655
+            Warning - 1 : Skipping Token poly On Line 2661
+            Warning - 1 : Skipping Token poly On Line 2667
+            Warning - 1 : Skipping Token poly On Line 2673
+            Warning - 1 : Skipping Token poly On Line 2679
+            Warning - 1 : Skipping Token poly On Line 2685
+            Warning - 1 : Skipping Token poly On Line 2691
+            Warning - 1 : Skipping Token poly On Line 2697
+            Warning - 1 : Skipping Token poly On Line 2703
+            Warning - 1 : Skipping Token poly On Line 2709
+            Warning - 1 : Skipping Token poly On Line 2715
+            Warning - 1 : Skipping Token poly On Line 2721
+            Warning - 1 : Skipping Token poly On Line 2727
+            Warning - 1 : Skipping Token poly On Line 2733
+            Warning - 1 : Skipping Token poly On Line 2739
+            Warning - 1 : Skipping Token poly On Line 2745
+            Warning - 1 : Skipping Token poly On Line 2751
+            Warning - 1 : Skipping Token poly On Line 2757
+            Warning - 1 : Skipping Token poly On Line 2763
+            Warning - 1 : Skipping Token poly On Line 2769
+            Warning - 1 : Skipping Token poly On Line 2775
+            Warning - 1 : Skipping Token poly On Line 2781
+            Warning - 1 : Skipping Token poly On Line 2787
+            Warning - 1 : Skipping Token poly On Line 2793
+            Warning - 1 : Skipping Token poly On Line 2799
+            Warning - 1 : Skipping Token poly On Line 2805
+            Warning - 1 : Skipping Token poly On Line 2811
+            Warning - 1 : Skipping Token poly On Line 2817
+            Warning - 1 : Skipping Token poly On Line 2823
+            Warning - 1 : Skipping Token poly On Line 2829
+            Warning - 1 : Skipping Token poly On Line 2835
+            Warning - 1 : Skipping Token poly On Line 2841
+            Warning - 1 : Skipping Token poly On Line 2847
+            Warning - 1 : Skipping Token poly On Line 2853
+            Warning - 1 : Skipping Token poly On Line 2859
+            Warning - 1 : Skipping Token poly On Line 2865
+            Warning - 1 : Skipping Token poly On Line 2871
+            Warning - 1 : Skipping Token poly On Line 2877
+            Warning - 1 : Skipping Token poly On Line 2883
+            Warning - 1 : Skipping Token poly On Line 2889
+            Warning - 1 : Skipping Token poly On Line 2895
+            Warning - 1 : Skipping Token poly On Line 2901
+            Warning - 1 : Skipping Token poly On Line 2907
+            Warning - 1 : Skipping Token poly On Line 2913
+            Warning - 1 : Skipping Token poly On Line 2919
+            Warning - 1 : Skipping Token poly On Line 2925
+            Warning - 1 : Skipping Token poly On Line 2931
+            Warning - 1 : Skipping Token poly On Line 2937
+            Warning - 1 : Skipping Token poly On Line 2943
+            Warning - 1 : Skipping Token poly On Line 2949
+            Warning - 1 : Skipping Token poly On Line 2955
+            Warning - 1 : Skipping Token poly On Line 2961
+            Warning - 1 : Skipping Token poly On Line 2967
+            Warning - 1 : Skipping Token poly On Line 2973
+            Warning - 1 : Skipping Token poly On Line 2979
+            Warning - 1 : Skipping Token poly On Line 2985
+            Warning - 1 : Skipping Token poly On Line 2991
+            Warning - 1 : Skipping Token poly On Line 2997
+            Warning - 1 : Skipping Token poly On Line 3003
+            Warning - 1 : Skipping Token poly On Line 3009
+            Warning - 1 : Skipping Token poly On Line 3015
+            Warning - 1 : Skipping Token poly On Line 3021
+            Warning - 1 : Skipping Token poly On Line 3027
+            Warning - 1 : Skipping Token poly On Line 3033
+            Warning - 1 : Skipping Token poly On Line 3039
+            Warning - 1 : Skipping Token poly On Line 3045
+            Warning - 1 : Skipping Token poly On Line 3051
+            Warning - 1 : Skipping Token poly On Line 3057
+            Warning - 1 : Skipping Token poly On Line 3063
+            Warning - 1 : Skipping Token poly On Line 3069
+            Warning - 1 : Skipping Token poly On Line 3075
+            Warning - 1 : Skipping Token poly On Line 3081
+            Warning - 1 : Skipping Token poly On Line 3087
+            Warning - 1 : Skipping Token poly On Line 3093
+            Warning - 1 : Skipping Token poly On Line 3099
+            Warning - 1 : Skipping Token poly On Line 3105
+            Warning - 1 : Skipping Token poly On Line 3111
+            Warning - 1 : Skipping Token poly On Line 3117
+            Warning - 1 : Skipping Token poly On Line 3123
+            Warning - 1 : Skipping Token poly On Line 3129
+            Warning - 1 : Skipping Token poly On Line 3135
+            Warning - 1 : Skipping Token poly On Line 3141
+            Warning - 1 : Skipping Token poly On Line 3147
+            Warning - 1 : Skipping Token poly On Line 3153
+            Warning - 1 : Skipping Token poly On Line 3159
+            Warning - 1 : Skipping Token poly On Line 3165
+            Warning - 1 : Skipping Token poly On Line 3171
+            Warning - 1 : Skipping Token poly On Line 3177
+            Warning - 1 : Skipping Token poly On Line 3183
+            Warning - 1 : Skipping Token poly On Line 3189
+            Warning - 1 : Skipping Token poly On Line 3195
+            Warning - 1 : Skipping Token poly On Line 3201
+            Warning - 1 : Skipping Token poly On Line 3207
+            Warning - 1 : Skipping Token poly On Line 3213
+            Warning - 1 : Skipping Token poly On Line 3219
+            Warning - 1 : Skipping Token poly On Line 3225
+            Warning - 1 : Skipping Token poly On Line 3231
+            Warning - 1 : Skipping Token poly On Line 3237
+            Warning - 1 : Skipping Token poly On Line 3243
+            Warning - 1 : Skipping Token poly On Line 3249
+            Warning - 1 : Skipping Token poly On Line 3255
+            Warning - 1 : Skipping Token poly On Line 3261
+            Warning - 1 : Skipping Token poly On Line 3267
+            Warning - 1 : Skipping Token poly On Line 3273
+            Warning - 1 : Skipping Token poly On Line 3279
+            Warning - 1 : Skipping Token poly On Line 3285
+            Warning - 1 : Skipping Token poly On Line 3291
+            Warning - 1 : Skipping Token poly On Line 3297
+            Warning - 1 : Skipping Token poly On Line 3303
+            Warning - 1 : Skipping Token poly On Line 3309
+            Warning - 1 : Skipping Token poly On Line 3315
+            Warning - 1 : Skipping Token poly On Line 3321
+            Warning - 1 : Skipping Token poly On Line 3327
+            Warning - 1 : Skipping Token poly On Line 3333
+            Warning - 1 : Skipping Token poly On Line 3339
+            Warning - 1 : Skipping Token poly On Line 3345
+            Warning - 1 : Skipping Token poly On Line 3351
+            Warning - 1 : Skipping Token poly On Line 3357
+            Warning - 1 : Skipping Token poly On Line 3363
+            Warning - 1 : Skipping Token poly On Line 3369
+            Warning - 1 : Skipping Token poly On Line 3375
+            Warning - 1 : Skipping Token poly On Line 3381
+            Warning - 1 : Skipping Token poly On Line 3387
+            Warning - 1 : Skipping Token poly On Line 3393
+            Warning - 1 : Skipping Token poly On Line 3399
+            Warning - 1 : Skipping Token poly On Line 3405
+            Warning - 1 : Skipping Token poly On Line 3411
+            Warning - 1 : Skipping Token poly On Line 3417
+            Warning - 1 : Skipping Token poly On Line 3423
+            Warning - 1 : Skipping Token poly On Line 3429
+            Warning - 1 : Skipping Token poly On Line 3435
+            Warning - 1 : Skipping Token poly On Line 3441
+            Warning - 1 : Skipping Token poly On Line 3447
+            Warning - 1 : Skipping Token poly On Line 3453
+            Warning - 1 : Skipping Token poly On Line 3459
+            Warning - 1 : Skipping Token poly On Line 3465
+            Warning - 1 : Skipping Token poly On Line 3471
+            Warning - 1 : Skipping Token poly On Line 3477
+            Warning - 1 : Skipping Token poly On Line 3483
+            Warning - 1 : Skipping Token poly On Line 3489
+            Warning - 1 : Skipping Token poly On Line 3495
+            Warning - 1 : Skipping Token poly On Line 3501
+            Warning - 1 : Skipping Token poly On Line 3507
+            Warning - 1 : Skipping Token poly On Line 3513
+            Warning - 1 : Skipping Token poly On Line 3519
+            Warning - 1 : Skipping Token poly On Line 3525
+            Warning - 1 : Skipping Token poly On Line 3531
+            Warning - 1 : Skipping Token poly On Line 3537
+            Warning - 1 : Skipping Token poly On Line 3543
+            Warning - 1 : Skipping Token poly On Line 3549
+            Warning - 1 : Skipping Token poly On Line 3555
+            Warning - 1 : Skipping Token poly On Line 3561
+            Warning - 1 : Skipping Token poly On Line 3567
+            Warning - 1 : Skipping Token poly On Line 3573
+            Warning - 1 : Skipping Token poly On Line 3579
+            Warning - 1 : Skipping Token poly On Line 3585
+            Warning - 1 : Skipping Token poly On Line 3591
+            Warning - 1 : Skipping Token poly On Line 3597
+            Warning - 1 : Skipping Token poly On Line 3603
+            Warning - 1 : Skipping Token poly On Line 3609
+            Warning - 1 : Skipping Token poly On Line 3615
+            Warning - 1 : Skipping Token poly On Line 3621
+            Warning - 1 : Skipping Token poly On Line 3627
+            Warning - 1 : Skipping Token poly On Line 3633
+            Warning - 1 : Skipping Token poly On Line 3639
+            Warning - 1 : Skipping Token poly On Line 3645
+            Warning - 1 : Skipping Token poly On Line 3651
+            Warning - 1 : Skipping Token poly On Line 3657
+            Warning - 1 : Skipping Token poly On Line 3663
+            Warning - 1 : Skipping Token poly On Line 3669
+            Warning - 1 : Skipping Token poly On Line 3675
+            Warning - 1 : Skipping Token poly On Line 3681
+            Warning - 1 : Skipping Token poly On Line 3687
+            Warning - 1 : Skipping Token poly On Line 3693
+            Warning - 1 : Skipping Token poly On Line 3699
+            Warning - 1 : Skipping Token poly On Line 3705
+            Warning - 1 : Skipping Token poly On Line 3711
+            Warning - 1 : Skipping Token poly On Line 3717
+            Warning - 1 : Skipping Token poly On Line 3723
+            Warning - 1 : Skipping Token poly On Line 3729
+            Warning - 1 : Skipping Token poly On Line 3735
+            Warning - 1 : Skipping Token poly On Line 3741
+            Warning - 1 : Skipping Token poly On Line 3747
+            Warning - 1 : Skipping Token poly On Line 3753
+            Warning - 1 : Skipping Token poly On Line 3759
+            Warning - 1 : Skipping Token poly On Line 3765
+            Warning - 1 : Skipping Token poly On Line 3771
+            Warning - 1 : Skipping Token poly On Line 3777
+            Warning - 1 : Skipping Token poly On Line 3783
+            Warning - 1 : Skipping Token poly On Line 3789
+            Warning - 1 : Skipping Token poly On Line 3795
+            Warning - 1 : Skipping Token poly On Line 3801
+            Warning - 1 : Skipping Token poly On Line 3807
+            Warning - 1 : Skipping Token poly On Line 3813
+            Warning - 1 : Skipping Token poly On Line 3819
+            Warning - 1 : Skipping Token poly On Line 3825
+            Warning - 1 : Skipping Token poly On Line 3831
+            Warning - 1 : Skipping Token poly On Line 3853
+            Warning - 1 : Skipping Token poly On Line 3859
+            Warning - 1 : Skipping Token poly On Line 3865
+            Warning - 1 : Skipping Token poly On Line 3871
+            Warning - 1 : Skipping Token poly On Line 3879
+            Warning - 1 : Skipping Token poly On Line 3885
+            Warning - 1 : Skipping Token poly On Line 3891
+            Warning - 1 : Skipping Token poly On Line 3897
+            Warning - 1 : Skipping Token MPU-6050 On Line 3906
+            Warning - 1 : Skipping Token attachedSymbol On Line 4056
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - MPU6050.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 3840
+            Warning - 1 : Skipping Token layerContents On Line 3852
+            Warning - 1 : Skipping Token layerContents On Line 3878
+        EndSection
+
+        Section : Generating SCH Library - MPU6050.SchLib
+        EndSection
+    EndSection
+EndSection

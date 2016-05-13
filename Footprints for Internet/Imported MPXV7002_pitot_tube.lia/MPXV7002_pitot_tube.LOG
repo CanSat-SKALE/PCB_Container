@@ -1,0 +1,52 @@
+PCAD Importer Log
+Project : MPXV7002_pitot_tube.LibPkg
+
+Section : C:\Users\Lupu Sorina\Documents\GitHub\Electronics\Footprints for Internet\MPXV7002_pitot_tube.lia
+    Section : PCB Library - MPXV7002_pitot_tube.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MPXV7002 On Line 72
+            Warning - 1 : Skipping Token attachedSymbol On Line 170
+            Warning - 1 : Skipping Token 6 On Line 177
+            Warning - 1 : Skipping Token 5 On Line 179
+            Warning - 1 : Skipping Token 4 On Line 183
+            Warning - 1 : Skipping Token C On Line 185
+            Warning - 1 : Skipping Token 2 On Line 187
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [SOP8][Primary] associated with PCAD Component [MPXV7002] has been renamed to PCB FootPrint [SOP8_MPXV7002(Primary)].
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - MPXV7002_pitot_tube.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 60
+            Warning - 1 : Skipping Token 6 On Line 177
+            Warning - 1 : Skipping Token 5 On Line 179
+            Warning - 1 : Skipping Token 4 On Line 183
+            Warning - 1 : Skipping Token C On Line 185
+            Warning - 1 : Skipping Token 2 On Line 187
+        EndSection
+
+        Section : Generating SCH Library - MPXV7002_pitot_tube.SchLib
+            Warning - 0 : PCAD Pattern Graphics [SOP8][Primary] associated with PCAD Component [MPXV7002] has been renamed to PCB FootPrint [SOP8_MPXV7002(Primary)].
+        EndSection
+    EndSection
+EndSection

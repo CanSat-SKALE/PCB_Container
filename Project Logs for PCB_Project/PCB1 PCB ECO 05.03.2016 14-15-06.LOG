@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=NRST Pin=S1-2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=S1
+Change Component Footprint: Designator=C1 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C2 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C4 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C6 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C8 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C9 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C10 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C11 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C12 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C13 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C14 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C15 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C16 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C17 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C18 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C19 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C20 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C21 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C22 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C24 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C25 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C27 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C28 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C29 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C30 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C31 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C32 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C33 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C34 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C35 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C36 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C37 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C38 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C39 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C40 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C41 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C42 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C43 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C44 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C_bat1 Old Footprint=1608[0603] New Footprint=CAP_0603
+Change Component Footprint: Designator=C_rst Old Footprint=1608[0603] New Footprint=CAP_0603
+Added Component: Designator=C45(CAP_0603)
+Added Component: Designator=D10(DIODE-0.7)
+Added Component: Designator=D11(DIODE-0.7)
+Added Pin To Net: NetName=VCC_XB Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=NetLS1_1 Pin=D10-1
+Added Pin To Net: NetName=5V Pin=D11-1
+Added Pin To Net: NetName=I2C_SCL Pin=U3-4
+Added Pin To Net: NetName=I2C_SDA Pin=U3-6
+Change Net Name : Old Net Name=NetLS1_1 New Net Name=NetD10_1
+Added Net: Name=DEBUG_RX
+Added Net: Name=DEBUG_TX
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-2
+Added Net: Name=NetD10_2
+Added Net: Name=SDIO_CLK
+Added Net: Name=SDIO_CMD
+Added Net: Name=SDIO_D0
+Added Net: Name=SDIO_D1
+Added Net: Name=SDIO_D2
+Added Net: Name=SDIO_D3
+Added Net: Name=SLEEP_RQ
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C45 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D10 D Zener
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component D11 D Zener

@@ -1,0 +1,9 @@
+Added Component: Designator=TP7(TP)
+Added Component: Designator=TP8(TP)
+Added Component: Designator=TP9(TP)
+Added Pin To Net: NetName=GND Pin=TP7-0
+Added Pin To Net: NetName=GND Pin=TP8-0
+Added Pin To Net: NetName=GND Pin=TP9-0
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP7 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP8 TP5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component TP9 TP5

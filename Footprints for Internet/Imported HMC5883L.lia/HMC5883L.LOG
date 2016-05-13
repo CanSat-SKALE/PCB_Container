@@ -1,0 +1,92 @@
+PCAD Importer Log
+Project : HMC5883L.LibPkg
+
+Section : C:\Users\Lupu Sorina\Documents\GitHub\Electronics\Footprints for Internet\HMC5883L.lia
+    Section : PCB Library - HMC5883L.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token HMC5883L On Line 90
+            Warning - 1 : Skipping Token attachedSymbol On Line 270
+            Warning - 1 : Skipping Token 2 On Line 273
+            Warning - 1 : Skipping Token 16 On Line 275
+            Warning - 1 : Skipping Token 12 On Line 277
+            Warning - 1 : Skipping Token 1 On Line 279
+            Warning - 1 : Skipping Token 8 On Line 281
+            Warning - 1 : Skipping Token 15 On Line 283
+            Warning - 1 : Skipping Token 13 On Line 285
+            Warning - 1 : Skipping Token 10 On Line 287
+            Warning - 1 : Skipping Token 3 On Line 289
+            Warning - 1 : Skipping Token 5 On Line 291
+            Warning - 1 : Skipping Token 6 On Line 293
+            Warning - 1 : Skipping Token 7 On Line 295
+            Warning - 1 : Skipping Token 14 On Line 297
+            Warning - 1 : Skipping Token 11 On Line 299
+            Warning - 1 : Skipping Token 9 On Line 301
+            Warning - 1 : Skipping Token 4 On Line 303
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [HW_LCC16_3X3][Primary] associated with PCAD Component [HMC5883L] has been renamed to PCB FootPrint [HW_LCC16_3X3_HMC5883L(Primary)].
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - HMC5883L.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 60
+            Warning - 1 : Skipping Token layerContents On Line 78
+            Warning - 1 : Skipping Token layerContents On Line 85
+            Warning - 1 : Skipping Token 2 On Line 273
+            Warning - 1 : Skipping Token 16 On Line 275
+            Warning - 1 : Skipping Token 12 On Line 277
+            Warning - 1 : Skipping Token 1 On Line 279
+            Warning - 1 : Skipping Token 8 On Line 281
+            Warning - 1 : Skipping Token 15 On Line 283
+            Warning - 1 : Skipping Token 13 On Line 285
+            Warning - 1 : Skipping Token 10 On Line 287
+            Warning - 1 : Skipping Token 3 On Line 289
+            Warning - 1 : Skipping Token 5 On Line 291
+            Warning - 1 : Skipping Token 6 On Line 293
+            Warning - 1 : Skipping Token 7 On Line 295
+            Warning - 1 : Skipping Token 14 On Line 297
+            Warning - 1 : Skipping Token 11 On Line 299
+            Warning - 1 : Skipping Token 9 On Line 301
+            Warning - 1 : Skipping Token 4 On Line 303
+        EndSection
+
+        Section : Generating SCH Library - HMC5883L.SchLib
+            Warning - 0 : PCAD Pattern Graphics [HW_LCC16_3X3][Primary] associated with PCAD Component [HMC5883L] has been renamed to PCB FootPrint [HW_LCC16_3X3_HMC5883L(Primary)].
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDIO_D2 Pin=U7-51
+Removed Pin From Net: NetName=SDIO_D3 Pin=U7-52
+Added Pin To Net: NetName=SDIO_D3 Pin=U7-51
+Added Pin To Net: NetName=SDIO_D2 Pin=U7-52

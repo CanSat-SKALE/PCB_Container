@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D10 Old Footprint=DIODE-0.7 New Footprint=SOD3715X135M
+Change Component Footprint: Designator=D11 Old Footprint=DIODE-0.7 New Footprint=SOD3715X135M
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP1
